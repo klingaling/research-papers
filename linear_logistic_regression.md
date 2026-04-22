@@ -111,11 +111,7 @@ Each coefficient ($\beta_i$) measures the effect of one feature while holding th
 
 ## A Simple Linear Regression Diagram
 
-Imagine we have data points showing house size and house price.
-
-![Scatter plot of house size vs price](lr_scatter.png)
-
-Linear regression fits the best straight line through those points.
+Imagine we have data points showing house size and house price. Linear regression fits the best straight line through those points.
 
 ![Regression line being drawn through the data points](lr_regression_line.gif)
 
