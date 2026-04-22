@@ -1,7 +1,4 @@
 # Linear and Logistic Regression: The Two Models That Power a Surprising Amount of Machine Learning
-
-*An intuitive, equation-friendly guide to the regression models every data scientist should understand.*
-
 ---
 
 If you've spent any time around machine learning, you've probably heard linear regression and logistic regression described as "beginner" models — the stuff you learn in week one and then move past.
